@@ -95,23 +95,23 @@ Repositori ini dibagi berdasarkan minggu belajar:
 
 📂 Algorithm-DataStructure  
 │── 📁 week1  
-│ ├── 📁 theory  
-│ ├── 📁 coding  
-│ ├── 📁 screening  
+│   ├── 📁 theory  
+│   ├── 📁 coding  
+│   ├── 📁 screening  
 │  
 │── 📁 week2  
-│ ├── 📁 theory  
-│ ├── 📁 coding  
-│ ├── 📁 screening  
+│   ├── 📁 theory  
+│   ├── 📁 coding  
+│   ├── 📁 screening  
 │  
 │── 📁 week3  
-│ ├── 📁 theory  
-│ ├── 📁 coding  
-│ ├── 📁 screening  
+│   ├── 📁 theory  
+│   ├── 📁 coding  
+│   ├── 📁 screening  
 │  
 │── 📁 docs  
 │  
-│── README.md
+│── 📄 README.md  
 
 ---
 
