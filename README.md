@@ -79,59 +79,27 @@ Repository ini adalah dokumentasi **perjalanan belajar Algoritma & Struktur Data
 ## 📂 **Struktur Folder**  
 Repositori ini dibagi berdasarkan minggu belajar:  
 
-📂 Algorithm-DataStructure  
-│── 📁 week1  
-│   ├── 📁 theory  
-│   │   ├── array.md  
-│   │   ├── linked_list.md  
-│   │   ├── sorting.md  
-│   │   ├── searching.md  
-│   │   ├── stack_queue.md  
-│   │   ├── big_o_notation.md  
-│   ├── 📁 coding  
-│   │   ├── array.ts  
-│   │   ├── linked_list.ts  
-│   │   ├── sorting.ts  
-│   │   ├── searching.ts  
-│   │   ├── stack_queue.ts  
-│   ├── 📁 screening  
-│   │   ├── theory_screening.md  # Pertanyaan teori sebelum coding  
-│   │   ├── coding_screening.md  # Soal coding sebelum lanjut ke latihan utama  
-│  
-│── 📁 week2  
-│   ├── 📁 theory  
-│   │   ├── binary_search_tree.md  
-│   │   ├── graph_traversal.md  
-│   │   ├── dynamic_programming.md  
-│   │   ├── greedy_algorithm.md  
-│   ├── 📁 coding  
-│   │   ├── binary_search_tree.ts  
-│   │   ├── graph_traversal.py  
-│   │   ├── dynamic_programming.py  
-│   │   ├── greedy_algorithm.ts  
-│   ├── 📁 screening  
-│   │   ├── theory_screening.md  
-│   │   ├── coding_screening.md  
-│  
-│── 📁 week3  
-│   ├── 📁 theory  
-│   │   ├── advanced_problems.md  
-│   │   ├── mini_project.md  
-│   ├── 📁 coding  
-│   │   ├── advanced_problems.ts  
-│   │   ├── mini_project  
-│   │   │   ├── autocomplete_search.ts  
-│   │   │   ├── pathfinding_algorithm.py  
-│   │   │   ├── task_manager.ts  
-│   ├── 📁 screening  
-│   │   ├── theory_screening.md  
-│   │   ├── coding_screening.md  
-│  
-│── 📁 docs  
-│   ├── notes.md  # Catatan umum belajar  
-│   ├── big_o_analysis.md  # Ringkasan tentang Big-O Notation  
-│  
-│── README.md  
+📂 Algorithm-DataStructure → Repositori utama yang menyimpan seluruh materi belajar, implementasi kode, dan latihan.
+│
+│── 📁 week1 → Minggu pertama, fokus pada fundamental algoritma dan struktur data.
+│ ├── 📁 theory/ → Berisi materi teori dalam format .md seperti konsep dasar algoritma, sorting, searching, stack & queue.
+│ ├── 📁 coding/ → Berisi implementasi dari teori yang telah dipelajari dalam berbagai bahasa pemrograman.
+│ ├── 📁 screening/ → Berisi soal latihan dan pertanyaan screening untuk menguji pemahaman sebelum melanjutkan ke materi berikutnya.
+│
+│── 📁 week2 → Minggu kedua, mendalami struktur data lanjutan seperti BST, Graph, Dynamic Programming.
+│ ├── 📁 theory/ → Berisi materi teori mengenai BST, Graph, Dynamic Programming, dan Greedy Algorithm.
+│ ├── 📁 coding/ → Berisi implementasi dari teori dalam berbagai bahasa pemrograman.
+│ ├── 📁 screening/ → Latihan soal untuk memastikan pemahaman sebelum lanjut ke minggu ketiga.
+│
+│── 📁 week3 → Minggu ketiga, fokus pada latihan soal lanjutan dan proyek kecil berbasis algoritma.
+│ ├── 📁 theory/ → Materi lanjutan seperti advanced problems dan konsep proyek kecil.
+│ ├── 📁 coding/ → Implementasi dari berbagai masalah kompleks dan proyek mini berbasis algoritma.
+│ ├── 📁 screening/ → Latihan dan tes akhir untuk mengukur pemahaman setelah menyelesaikan semua materi.
+│
+│── 📁 docs/ → Dokumentasi tambahan terkait algoritma dan struktur data.
+│ ├── 📄 notes.md → Catatan umum selama belajar.
+│
+│── 📄 README.md → Dokumentasi utama repositori yang menjelaskan jadwal belajar, struktur folder, dan cara penggunaan.
 
 
 📌 **Penjelasan:**  
