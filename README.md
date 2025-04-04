@@ -93,26 +93,25 @@ Repository ini adalah dokumentasi **perjalanan belajar Algoritma & Struktur Data
 
 Repositori ini dibagi berdasarkan minggu belajar:
 
-📂 Algorithm-DataStructure → Repositori utama yang menyimpan seluruh materi belajar, implementasi kode, dan latihan.
-│
-│── 📁 week1
-│ ├── 📁 theory/
-│ ├── 📁 coding/
-│ ├── 📁 screening/
-│
-│── 📁 week2
-│ ├── 📁 theory/
-│ ├── 📁 coding/
-│ ├── 📁 screening/
-│
-│── 📁 week3
-│ ├── 📁 theory/
-│ ├── 📁 coding/
-│ ├── 📁 screening/
-│
-│── 📁 docs/ data.
-│ ├── 📄 notes.md
-│── 📄 README.md
+📂 Algorithm-DataStructure  
+│── 📁 week1  
+│ ├── 📁 theory  
+│ ├── 📁 coding  
+│ ├── 📁 screening  
+│  
+│── 📁 week2  
+│ ├── 📁 theory  
+│ ├── 📁 coding  
+│ ├── 📁 screening  
+│  
+│── 📁 week3  
+│ ├── 📁 theory  
+│ ├── 📁 coding  
+│ ├── 📁 screening  
+│  
+│── 📁 docs  
+│  
+│── README.md
 
 ---
 
