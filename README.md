@@ -1,114 +1,154 @@
-# 🚀 Algorithm & Data Structure Learning Journey  
+# 🚀 Algorithm & Data Structure Learning Journey
 
-Repository ini adalah dokumentasi **perjalanan belajar Algoritma & Struktur Data selama 3 minggu**. Semua latihan dilakukan langsung di dalam sesi belajar **tanpa menggunakan platform lain**, dan kode akan terdokumentasi di dalam repositori ini.  
+Repository ini adalah dokumentasi **perjalanan belajar Algoritma & Struktur Data selama 3 minggu**. Semua latihan dilakukan langsung di dalam sesi belajar **tanpa menggunakan platform lain**, dan kode akan terdokumentasi di dalam repositori ini.
 
 ---
 
-## 📆 **Jadwal Belajar Algoritma & Struktur Data (3 Minggu - Full Intensive)**  
+## 📆 **Jadwal Belajar Algoritma & Struktur Data (3 Minggu - Full Intensive)**
+
 **⏳ Durasi:** 5 Jam per Hari  
-**📍 Metode:**  
-- **Penjelasan konsep (1-2 jam)**  
-- **Latihan langsung (3-4 jam)**  
-- **Diskusi & Review solusi**  
-- **Kode disimpan di GitHub untuk dokumentasi latihan**  
+**📍 Metode:**
+
+-   **Penjelasan konsep (1-2 jam)**
+-   **Latihan langsung (3-4 jam)**
+-   **Diskusi & Review solusi**
+-   **Kode disimpan di GitHub untuk dokumentasi latihan**
 
 ---
 
-## **🟢 Minggu 1: Fundamental Algoritma & Struktur Data**  
+## **🟢 Minggu 1: Fundamental Algoritma & Struktur Data**
 
-### **🗓 Hari 1: Pengenalan Algoritma & Struktur Data**  
-📌 **Materi**:  
-- Apa itu algoritma?  
-- Cara menganalisis algoritma (Big-O Notation)  
-- Struktur data dasar: Array & Linked List  
+### **🗓 Hari 1: Pengenalan Algoritma & Struktur Data**
 
-✍️ **Latihan:**  
-1. Implementasi **Array dari nol** tanpa metode bawaan  
-2. Implementasi **Linked List (Singly & Doubly)**  
+📌 **Materi**:
 
----
+-   Apa itu algoritma?
+-   Cara menganalisis algoritma (Big-O Notation)
+-   Struktur data dasar: Array & Linked List
 
-### **🗓 Hari 2: Sorting Algorithms (Bubble, Selection, Insertion Sort)**  
-📌 **Materi:**  
-- Konsep dasar Sorting  
-- Implementasi Bubble Sort, Selection Sort, Insertion Sort  
+✍️ **Latihan:**
 
-✍️ **Latihan:**  
-1. Implementasikan **Bubble Sort & Selection Sort** dari nol  
-2. Bandingkan waktu eksekusi dengan **Insertion Sort**  
+1. Implementasi **Array dari nol** tanpa metode bawaan
+2. Implementasi **Linked List (Singly & Doubly)**
 
 ---
 
-### **🗓 Hari 3: Searching Algorithms (Linear & Binary Search)**  
-📌 **Materi:**  
-- Linear Search vs Binary Search  
-- Konsep rekursi dalam Binary Search  
+### **🗓 Hari 2: Sorting Algorithms (Bubble, Selection, Insertion Sort)**
 
-✍️ **Latihan:**  
-1. Implementasikan **Linear Search**  
-2. Implementasikan **Binary Search** tanpa built-in function  
-3. Buat **versi rekursif dari Binary Search**  
+📌 **Materi:**
 
----
+-   Konsep dasar Sorting
+-   Implementasi Bubble Sort, Selection Sort, Insertion Sort
 
-### **🗓 Hari 4-7: Struktur Data & Big-O Notation**  
-- **Hari 4:** Stack & Queue  
-- **Hari 5:** Big-O Notation & Analisis Kompleksitas  
-- **Hari 6:** Review & Latihan Gabungan  
-- **Hari 7:** Tes Akhir Minggu 1  
+✍️ **Latihan:**
+
+1. Implementasikan **Bubble Sort & Selection Sort** dari nol
+2. Bandingkan waktu eksekusi dengan **Insertion Sort**
 
 ---
 
-## **🟠 Minggu 2: Struktur Data Lanjut & Rekursi**  
+### **🗓 Hari 3: Searching Algorithms (Linear & Binary Search)**
 
-- **Hari 8:** Binary Search Tree (BST)  
-- **Hari 9:** Graphs (DFS & BFS)  
-- **Hari 10:** Pemrograman Dinamis (Fibonacci, Knapsack)  
-- **Hari 11:** Greedy Algorithm  
-- **Hari 12-14:** Latihan Soal & Mini Project  
+📌 **Materi:**
 
----
+-   Linear Search vs Binary Search
+-   Konsep rekursi dalam Binary Search
 
-## **🔴 Minggu 3: Latihan Soal Lanjut & Mini Project**  
-- **Hari 15-16:** Latihan Soal Advanced  
-- **Hari 17-19:** Mini Project Fullstack (Menggunakan Algoritma yang Dipelajari)  
-- **Hari 20-21:** Review & Evaluasi Akhir  
+✍️ **Latihan:**
+
+1. Implementasikan **Linear Search**
+2. Implementasikan **Binary Search** tanpa built-in function
+3. Buat **versi rekursif dari Binary Search**
 
 ---
 
-## 📂 **Struktur Folder**  
-Repositori ini dibagi berdasarkan minggu belajar:  
+### **🗓 Hari 4-7: Struktur Data & Big-O Notation**
+
+-   **Hari 4:** Stack & Queue
+-   **Hari 5:** Big-O Notation & Analisis Kompleksitas
+-   **Hari 6:** Review & Latihan Gabungan
+-   **Hari 7:** Tes Akhir Minggu 1
+
+---
+
+## **🟠 Minggu 2: Struktur Data Lanjut & Rekursi**
+
+-   **Hari 8:** Binary Search Tree (BST)
+-   **Hari 9:** Graphs (DFS & BFS)
+-   **Hari 10:** Pemrograman Dinamis (Fibonacci, Knapsack)
+-   **Hari 11:** Greedy Algorithm
+-   **Hari 12-14:** Latihan Soal & Mini Project
+
+---
+
+## **🔴 Minggu 3: Latihan Soal Lanjut & Mini Project**
+
+-   **Hari 15-16:** Latihan Soal Advanced
+-   **Hari 17-19:** Mini Project Fullstack (Menggunakan Algoritma yang Dipelajari)
+-   **Hari 20-21:** Review & Evaluasi Akhir
+
+---
+
+## 📂 **Struktur Folder**
+
+Repositori ini dibagi berdasarkan minggu belajar:
 
 📂 Algorithm-DataStructure → Repositori utama yang menyimpan seluruh materi belajar, implementasi kode, dan latihan.
 │
-│── 📁 week1 → Minggu pertama, fokus pada fundamental algoritma dan struktur data.
-│ ├── 📁 theory/ → Berisi materi teori dalam format .md seperti konsep dasar algoritma, sorting, searching, stack & queue.
-│ ├── 📁 coding/ → Berisi implementasi dari teori yang telah dipelajari dalam berbagai bahasa pemrograman.
-│ ├── 📁 screening/ → Berisi soal latihan dan pertanyaan screening untuk menguji pemahaman sebelum melanjutkan ke materi berikutnya.
+│── 📁 week1
+│ ├── 📁 theory/
+│ ├── 📁 coding/
+│ ├── 📁 screening/
 │
-│── 📁 week2 → Minggu kedua, mendalami struktur data lanjutan seperti BST, Graph, Dynamic Programming.
-│ ├── 📁 theory/ → Berisi materi teori mengenai BST, Graph, Dynamic Programming, dan Greedy Algorithm.
-│ ├── 📁 coding/ → Berisi implementasi dari teori dalam berbagai bahasa pemrograman.
-│ ├── 📁 screening/ → Latihan soal untuk memastikan pemahaman sebelum lanjut ke minggu ketiga.
+│── 📁 week2
+│ ├── 📁 theory/
+│ ├── 📁 coding/
+│ ├── 📁 screening/
 │
-│── 📁 week3 → Minggu ketiga, fokus pada latihan soal lanjutan dan proyek kecil berbasis algoritma.
-│ ├── 📁 theory/ → Materi lanjutan seperti advanced problems dan konsep proyek kecil.
-│ ├── 📁 coding/ → Implementasi dari berbagai masalah kompleks dan proyek mini berbasis algoritma.
-│ ├── 📁 screening/ → Latihan dan tes akhir untuk mengukur pemahaman setelah menyelesaikan semua materi.
+│── 📁 week3
+│ ├── 📁 theory/
+│ ├── 📁 coding/
+│ ├── 📁 screening/
 │
-│── 📁 docs/ → Dokumentasi tambahan terkait algoritma dan struktur data.
-│ ├── 📄 notes.md → Catatan umum selama belajar.
-│
-│── 📄 README.md → Dokumentasi utama repositori yang menjelaskan jadwal belajar, struktur folder, dan cara penggunaan.
-
-
-📌 **Penjelasan:**  
-- **`week1/`** → Implementasi algoritma dasar (sorting, searching, stack, queue, dll.)  
-- **`week2/`** → Struktur data lanjut (BST, Graph, DP, Greedy, dll.)  
-- **`week3/`** → Latihan soal lanjut & Mini Project  
-- **`docs/`** → Catatan pembelajaran & analisis algoritma  
+│── 📁 docs/ data.
+│ ├── 📄 notes.md
+│── 📄 README.md
 
 ---
+
+## 📜 Penjelasan Struktur
+
+### 📁 `week1/` (Fundamental Algoritma & Struktur Data)
+
+-   **theory/** → Berisi materi teori tentang konsep dasar algoritma, sorting, searching, stack, dan queue.
+-   **coding/** → Implementasi langsung dari teori yang dipelajari dalam berbagai bahasa pemrograman.
+-   **screening/** → Soal latihan untuk menguji pemahaman sebelum melanjutkan ke minggu berikutnya.
+
+### 📁 `week2/` (Struktur Data Lanjutan & Rekursi)
+
+-   **theory/** → Materi lanjutan seperti Binary Search Tree, Graph Traversal, Dynamic Programming, dan Greedy Algorithm.
+-   **coding/** → Implementasi algoritma yang sudah dipelajari.
+-   **screening/** → Latihan soal untuk mengukur pemahaman sebelum lanjut ke minggu ketiga.
+
+### 📁 `week3/` (Latihan Soal Lanjutan & Mini Project)
+
+-   **theory/** → Berisi materi lanjutan tentang advanced problems dan konsep proyek kecil berbasis algoritma.
+-   **coding/** → Implementasi berbagai permasalahan kompleks serta proyek mini.
+-   **screening/** → Tes akhir untuk memastikan pemahaman setelah menyelesaikan semua materi.
+
+### 📁 `docs/` (Dokumentasi Tambahan)
+
+-   **notes.md** → Catatan umum yang berisi ringkasan dari pembelajaran.
+
+---
+
+## 🚀 Cara Menggunakan
+
+1. **Clone repositori ini:**
+    ```bash
+    git clone https://github.com/username/Algorithm-DataStructure.git
+    cd Algorithm-DataStructure
+    ```
 
 Dengan README ini, dokumentasi jadi lebih rapi & jelas tujuannya. 🚀🔥  
 Bisa langsung kamu copy-paste ke GitHub repo kamu! ✅
